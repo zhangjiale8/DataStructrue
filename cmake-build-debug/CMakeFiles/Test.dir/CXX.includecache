@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cppCodeSpace/dataStructure/02LinearTable/Test.cpp
+Test.h
+D:/cppCodeSpace/dataStructure/02LinearTable/Test.h
+iostream
+-
+
+D:/cppCodeSpace/dataStructure/02LinearTable/Test.h
+

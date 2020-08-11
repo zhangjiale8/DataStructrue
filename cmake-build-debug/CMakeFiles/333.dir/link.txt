@@ -1,0 +1,3 @@
+"D:\developSoft\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\333.dir/objects.a
+D:\developSoft\mingw64\mingw64\bin\ar.exe cr CMakeFiles\333.dir/objects.a @CMakeFiles\333.dir\objects1.rsp
+D:\developSoft\mingw64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\333.dir/objects.a -Wl,--no-whole-archive  -o 333.exe -Wl,--out-implib,lib333.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\333.dir\linklibs.rsp

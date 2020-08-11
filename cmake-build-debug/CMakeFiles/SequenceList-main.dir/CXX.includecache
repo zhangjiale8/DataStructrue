@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cppCodeSpace/dataStructure/01 Introduction/Status.h
+
+D:/cppCodeSpace/dataStructure/02 LinearTable/01 SequenceList/SequenceList-main.cpp
+stdio.h
+-
+iostream
+-
+SequenceList.cpp
+D:/cppCodeSpace/dataStructure/02 LinearTable/01 SequenceList/SequenceList.cpp
+
+D:/cppCodeSpace/dataStructure/02 LinearTable/01 SequenceList/SequenceList.cpp
+SequenceList.h
+D:/cppCodeSpace/dataStructure/02 LinearTable/01 SequenceList/SequenceList.h
+
+D:/cppCodeSpace/dataStructure/02 LinearTable/01 SequenceList/SequenceList.h
+stdio.h
+-
+stdlib.h
+-
+../../01 Introduction/Status.h
+D:/cppCodeSpace/dataStructure/01 Introduction/Status.h
+

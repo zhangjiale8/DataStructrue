@@ -1,0 +1,3 @@
+"D:\developSoft\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\999.dir/objects.a
+D:\developSoft\mingw64\mingw64\bin\ar.exe cr CMakeFiles\999.dir/objects.a @CMakeFiles\999.dir\objects1.rsp
+D:\developSoft\mingw64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\999.dir/objects.a -Wl,--no-whole-archive  -o 999.exe -Wl,--out-implib,lib999.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\999.dir\linklibs.rsp
