@@ -1,3 +1,0 @@
-"D:\developSoft\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\uu.dir/objects.a
-D:\developSoft\mingw64\mingw64\bin\ar.exe cr CMakeFiles\uu.dir/objects.a @CMakeFiles\uu.dir\objects1.rsp
-D:\developSoft\mingw64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\uu.dir/objects.a -Wl,--no-whole-archive  -o uu.exe -Wl,--out-implib,libuu.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\uu.dir\linklibs.rsp

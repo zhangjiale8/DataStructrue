@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/cppCodeSpace/dataStructure/02 LinearTable/01 SequenceList/SequenceList.cpp" "D:/cppCodeSpace/dataStructure/cmake-build-debug/CMakeFiles/SequenceList.dir/02_LinearTable/01_SequenceList/SequenceList.obj"
+  "D:/cppCodeSpace/DataStructrue/02 LinearTable/01 SequenceList/SequenceList.cpp" "D:/cppCodeSpace/DataStructrue/cmake-build-debug/CMakeFiles/SequenceList.dir/02_LinearTable/01_SequenceList/SequenceList.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
